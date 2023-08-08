@@ -28,7 +28,7 @@
 
 ## 安装与使用
 1. 点亮右上角小星星。
-2. 下载最新版Release。
+2. 下载最新版[Release](https://github.com/crowya/Star-Love/releases)。
 3. 上传并解压到网站目录`/www/wwwroot/typecho/usr/themes/`文件夹下。
 4. 在后台切换主题并在“设置外观”页面根据提示完成设置。
 5. 其他需要注意的设置项：
