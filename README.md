@@ -48,7 +48,7 @@
       picture2,2020年01月02日拍摄,https://ww2.sinaimg.cn/large/006uAlqKgy1fzlbjrxju2j31400u04qz.jpg
       picture3,2020年01月03日拍摄,https://ww2.sinaimg.cn/large/006uAlqKgy1fzlbjrxju2j31400u04qz.jpg
       ```
-      格式为：`标题,简介,图片链接`。其中标题和简介可以为空，即`,,图片链接`。有关自定义字段的用法请参考致谢4。
+      格式为：`标题,简介,图片链接`。其中标题和简介可以为空，即`,,图片链接`。自定义字段的用法请参考致谢4。
 6. 请保留页脚的“Theme Star Love”，祝99。
 
 ## 致谢
